@@ -1,4 +1,4 @@
-# book_store_API
+# book-store-API
 Book Store API - project with Express JS framework
 
 # Usage
